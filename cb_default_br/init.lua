@@ -1,3 +1,7 @@
+-- SPDX-FileCopyrightText: 2023 Blockhead
+--
+-- SPDX-License-Identifier: CC0-1.0
+
 -- vim: ts=4 sw=4 et
 local modname = minetest.get_current_modname()
 
